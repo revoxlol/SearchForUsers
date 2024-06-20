@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = C:/Program Files/Git/path/to/src
